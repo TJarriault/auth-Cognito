@@ -2,7 +2,7 @@
 
 > Simple example project with instructions how to create serverless login using AWS Cognito.
 
-![Overview](https://github.com/juhamust/serverless-aws-cognito-login/raw/master/overview.png)
+![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/overview.png)
 
 These notes and snippets were created after spending too much time figuring out how to setup serverless authentication using AWS Cognito and Facebook login. Hope you find it useful!
 
@@ -36,6 +36,9 @@ These notes and snippets were created after spending too much time figuring out 
 17. Create role for unauthenticated and authenticated (see policy examples)
 18. Select Authentication providers and set user Pool id and app client id
 
+![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/cognito.GIF)
+![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/cognito-App-Client.GIF)
+![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/cognito-idp.GIF)
 ### Step: Frontend App
 
 1. Install Node.js
