@@ -5,7 +5,7 @@
       <button v-on:click="login()">Login</button>
     </div>
     <div v-if="loggedIn">
-      <p>{{ auth.username }}</p>
+      <p>User : {{ auth.username }}</p>
       <button v-on:click="logout()">Logout</button>
     </div>
   </div>
