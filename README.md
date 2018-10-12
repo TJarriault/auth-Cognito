@@ -36,6 +36,7 @@ These notes and snippets were created after spending too much time figuring out 
 17. Create role for unauthenticated and authenticated (see policy examples)
 18. Select Authentication providers and set user Pool id and app client id
 
+### Detail of Cognito Configuration :
 ![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/cognito.GIF)
 ![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/cognito-App-Client.GIF)
 ![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/cognito-idp.GIF)
