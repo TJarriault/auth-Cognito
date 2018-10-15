@@ -57,10 +57,3 @@ cat .env
 npm start
 ```
 
-
-### Build container
-- Create docker image
-- Build container
-docker build . -t xxx/test-auth-lb:latest
-- Execute container
-docker run -d -p 3000:3000 "IMAGE ID"
