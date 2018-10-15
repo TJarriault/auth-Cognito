@@ -42,7 +42,7 @@ These notes and snippets were created after spending too much time figuring out 
 ![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/img/cognito.GIF)
 ![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/img/cognito-App-Client.GIF)
 ![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/img/cognito-idp.GIF)
-![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/img/cogntio-Identity providers.png)
+![Overview](https://github.com/TJarriault/auth-Cognito/blob/master/img/cogntio-Identity%20providers.png)
 ### Step: Frontend App
 
 1. Install Node.js
